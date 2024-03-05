@@ -1,0 +1,6 @@
+{
+    "extensions" : [
+      "GitHub.copilot",
+      "vscjava.vscode-java-pack"
+  ]
+  }
